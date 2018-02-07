@@ -1,0 +1,268 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.7)  7 FEB 2018 08:06
+entering extended mode
+**./ResearchMethodology.tex
+(ResearchMethodology.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (zed-csp.sty
+Package: zed-csp 95/01/11 0c zed-csp package
+\c@mv@zed=\count87
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `zed'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `zed'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `zed'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 86.
+\symitalics=\mathgroup4
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 86.
+\symlasy=\mathgroup5
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \sqsubset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \sqsupset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \mho on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 308.
+\zedindent=\dimen103
+\zedleftsep=\dimen104
+\zedtab=\dimen105
+\zedbar=\dimen106
+\zedskip=\skip43
+\interzedlinepenalty=\count88
+\preboxpenalty=\count89
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(ResearchMethodology.aux)
+\openout1 = `ResearchMethodology.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<muk_log.png, id=1, 113.67468pt x 95.6072pt>
+File: muk_log.png Graphic file (type png)
+ <use muk_log.png>
+Package pdftex.def Info: muk_log.png used on input line 9.
+(pdftex.def)             Requested size: 34.5021pt x 29.0179pt.
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./muk_log.png>]
+(ResearchMethodology.toc)
+\tf@toc=\write3
+\openout3 = `ResearchMethodology.toc'.
+
+ [1]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [1]
+Overfull \hbox (2.77855pt too wide) in paragraph at lines 74--75
+\OT1/cmr/m/n/10 http://environmentengineering.blogspot.com/2008/03/factors-to-b
+e-considered-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Overfull \hbox (27.52861pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10 http://environmentengineering.blogspot.com/2008/03/benefits-a
+nd-shortcomings-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (38.44531pt too wide) in paragraph at lines 78--79
+[]\OT1/cmr/m/n/10 http://www.nhtsa.dot.gov/cars/rules/rulings/cafe/alternativef
+uels/availability1.htm 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Overfull \hbox (41.112pt too wide) in paragraph at lines 80--81
+[]\OT1/cmr/m/n/10 http://environmentengineering.blogspot.com/2008/03/options-of
+-various-alternative-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Overfull \hbox (4.61192pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/10 http://environmentengineering.blogspot.com/2008/03/environmen
+t-friendly-
+ []
+
+[2] (ResearchMethodology.aux) ) 
+Here is how much of TeX's memory you used:
+ 1733 strings out of 493323
+ 21543 string characters out of 3139058
+ 81830 words of memory out of 3000000
+ 5281 multiletter control sequences out of 15000+200000
+ 4852 words of font info for 18 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,29p,1015b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on ResearchMethodology.pdf (4 pages, 110902 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
